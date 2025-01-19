@@ -1,5 +1,5 @@
 <template>
-  <main class="mx-2 mt-5 ">
+  <main class="mx-2 mt-10 ">
     <!-- Hero Container -->
     <div class="mx-auto w-full max-w-7xl px-2 md:px-10 md:py-24 lg:py-0 ">
       <!-- Component -->
