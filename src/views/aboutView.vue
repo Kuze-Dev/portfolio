@@ -62,9 +62,9 @@
             </ul>
           </div>
    <span class="text-center block mt-2 font-semibold">Tech Stack Used:</span>
-<div class="flex gap-6 justify-center items-center mt-4">
+<div class="flex gap-6 justify-center items-center mt-4 mx-2">
 
-  <div class="flex">
+  <div class="lg:flex xl:flex">
     <img src="../assets/html.jpg" alt="HTML" class="w-12 h-12   transform transition-all duration-300 hover:scale-110" />
     <img src="../assets/css.jpg" alt="CSS" class="w-12 h-12   transform transition-all duration-300 hover:scale-110" />
     <img src="../assets/tailwind.jpg" alt="Tailwind CSS" class="w-12 h-12   transform transition-all duration-300 hover:scale-110" />
