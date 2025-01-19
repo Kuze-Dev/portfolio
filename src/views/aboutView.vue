@@ -43,14 +43,7 @@
                   <i class="fab fa-facebook-f text-2xl"></i>
                 </a>
               </li>
-              <!-- <li class="mr-2">
-                <a
-                  href="https://www.instagram.com/sterx_23/"
-                  class="bg-gray-100 hover:bg-gray-200 rounded-full flex items-center justify-center w-9 h-9"
-                >
-                  <i class="fab fa-instagram text-2xl"></i>
-                </a>
-              </li> -->
+          
               <li>
                 <a
                   href="https://github.com/Kuze-Dev"
