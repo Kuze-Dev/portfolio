@@ -85,15 +85,15 @@
 },
 
     {
-      image: 'https://miro.medium.com/v2/resize:fit:2526/1*_L4PsCyrhhSIXSL0XsiYew.png', 
-      title: 'Optimizing Website Performance',
-      details: 'Learn strategies to optimize website performance for better speed and user engagement.',
+      image: 'https://firebasestorage.googleapis.com/v0/b/mcm-chuch.appspot.com/o/jjkspotify%20(1).jpg?alt=media&token=921eaee8-a2c6-473b-ae33-6fb4c2fd2456', 
+      title: 'Mini JJK Spotify',
+      details: 'Mini JJK Spotify is a simple music app where users can explore playlists, play songs, and enjoy a smooth interface. It’s built with Vue.js and hosted on Netlify for fast performance and easy access.',
 
     },
     {
-      image: 'https://miro.medium.com/v2/resize:fit:2526/1*_L4PsCyrhhSIXSL0XsiYew.png', 
-      title: 'Optimizing Website Performance',
-      details: 'Learn strategies to optimize website performance for better speed and user engagement.',
+      image: 'https://firebasestorage.googleapis.com/v0/b/mcm-chuch.appspot.com/o/minireminderscheduler%20(1).jpg?alt=media&token=a854d823-f5ec-48a1-befb-dbd66701e60b', 
+      title: 'Mini Reminder Scheduler (Still Working)',
+      details: 'Mini Reminder Scheduler is a simple app that helps you set reminders and alarms. It’s easy to use, built for scheduling tasks or events, and ensures you never miss anything important.',
     },
    
     
