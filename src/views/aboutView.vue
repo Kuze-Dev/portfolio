@@ -43,7 +43,14 @@
                   <i class="fab fa-facebook-f text-2xl"></i>
                 </a>
               </li>
-          
+              <!-- <li class="mr-2">
+                <a
+                  href="https://www.instagram.com/sterx_23/"
+                  class="bg-gray-100 hover:bg-gray-200 rounded-full flex items-center justify-center w-9 h-9"
+                >
+                  <i class="fab fa-instagram text-2xl"></i>
+                </a>
+              </li> -->
               <li>
                 <a
                   href="https://github.com/Kuze-Dev"
@@ -57,7 +64,7 @@
    <span class="text-center block mt-2 font-semibold">Tech Stack Used:</span>
 <div class="flex gap-6 justify-center items-center mt-4 mx-2">
 
-  <div class="lg:flex xl:flex ">
+  <div class="">
     <img src="../assets/html.jpg" alt="HTML" class="w-12 h-12   transform transition-all duration-300 hover:scale-110" />
     <img src="../assets/css.jpg" alt="CSS" class="w-12 h-12   transform transition-all duration-300 hover:scale-110" />
     <img src="../assets/tailwind.jpg" alt="Tailwind CSS" class="w-12 h-12   transform transition-all duration-300 hover:scale-110" />
